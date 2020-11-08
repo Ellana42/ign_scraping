@@ -1,0 +1,528 @@
+{
+    "R\u00e9gion AUVERGNE-RH\u00d4NES-ALPES": {
+        "03 - ALLIER - PVA 2016 :": [],
+        "15 - CANTAL - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D015_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D015_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D015_2016-01-01.7z.002"
+        ],
+        "38 - IS\u00c8RE - PVA 2018": [
+            "ftp://BD_ORTHO_IRC_NL_ext:janei6Nie4iebei5@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D038_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_NL_ext:janei6Nie4iebei5@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D038_2018-01-01.7z.002"
+        ],
+        "42 - LOIRE - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D042_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D042_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D042_2016-01-01.7z"
+        ],
+        "43 - HAUTE-LOIRE - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D043_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D043_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D043_2016-01-01.7z"
+        ],
+        "63 - PUY-DE-DOME - PVA 2016 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D063_2016-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D063_2016-01-01.7z.002"
+        ]
+    },
+    "R\u00e9gion BOURGOGNE FRANCHE-COMT\u00c9": {
+        "21 - COTE D\u2019OR - PVA 2017 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D021_2017-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D021_2017-01-01.7z.002"
+        ],
+        "25 - DOUBS - PVA 2017 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D025_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D025_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D025_2017-01-01.7z"
+        ],
+        "39 - JURA - PVA 2017 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D039_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D039_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D039_2017-01-01.7z"
+        ],
+        "58 - NIEVRE - PVA 2020 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D058_2020-01-01.7z.008"
+        ],
+        "70 - HAUTE-SAONE - PVA 2017 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D070_2017-01-01.7z.001"
+        ],
+        "71 - SAONE-ET-LOIRE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.008",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.009",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D071_2018-01-01.7z.010"
+        ],
+        "89 - YONNE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D089_2018-01-01.7z.008"
+        ],
+        "90 - TERRITOIRE-DE-BELFORT - PVA 2017 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D090_2017-01-01.7z.001"
+        ]
+    },
+    "R\u00e9gion BRETAGNE": {
+        "22 - COTE-D\u2019ARMOR - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D022_2018-01-01.7z.008"
+        ],
+        "29 - FINISTERE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D029_2018-01-01.7z.007"
+        ],
+        "35 - ILLE-ET-VILAINE - PVA 2017 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D035_2017-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D035_2017-01-01.7z.002"
+        ],
+        "56 - MORBIHAN - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D056_2019-01-01.7z.008"
+        ]
+    },
+    "R\u00e9gion CENTRE-VAL-DE-LOIRE": {
+        "18 \u2013 CHER \u2013 PVA2020 :": [
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.001",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.002",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.003",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.004",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.005",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.006",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.007",
+            "ftp://ORTHO_HR_ext:Ithacah6ophai2vo@ftp3.ign.fr/ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D018_2020-01-01.7z.008"
+        ],
+        "45 - LOIRET - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D045_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D045_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D045_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D045_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D045_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D045_2016-01-01.7z.002"
+        ]
+    },
+    "R\u00e9gion CORSE": {
+        "2A - CORSE-DU-SUD - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02A_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02A_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02A_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02A_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02A_2019-01-01.7z.005"
+        ],
+        "2B - HAUTE-CORSE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D02B_2019-01-01.7z.006"
+        ]
+    },
+    "R\u00e9gion GRAND-EST": {
+        "08 - ARDENNES - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D008_2019-01-01.7z.006"
+        ],
+        "10 - AUBE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D010_2019-01-01.7z.007"
+        ],
+        "51 - MARNE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.008",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D051_2019-01-01.7z.009"
+        ],
+        "52 - HAUTE-MARNE - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D052_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D052_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D052_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D052_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D052_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D052_2016-01-01.7z.002"
+        ],
+        "54 - Meurthe-et-Moselle - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D054_2018-01-01.7z.007"
+        ],
+        "55 - MEUSE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D055_2018-01-01.7z.007"
+        ],
+        "67 - BAS-RHIN - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D067_2018-01-01.7z.006"
+        ],
+        "68 - HAUT-RHIN - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D068_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D068_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D068_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D068_2018-01-01.7z.004"
+        ],
+        "88 - VOSGES - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D088_2018-01-01.7z.007"
+        ]
+    },
+    "R\u00e9gion GUADELOUPE": {
+        "971 - GUADELOUPE - PVA 2017 - projection RGAF09UTM20 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D971_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_RGAF09UTM20_D971_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_RGAF09UTM20_D971_2017-01-01.7z"
+        ]
+    },
+    "R\u00e9gion HAUTS-DE-FRANCE": {
+        "02 - AISNE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.008",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D002_2018-01-01.7z.009"
+        ],
+        "59 - NORD - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D059_2018-01-01.7z.008"
+        ],
+        "60 - OISE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D060_2018-01-01.7z.007"
+        ],
+        "62 - PAS-DE-CALAIS - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D062_2018-01-01.7z.008"
+        ],
+        "80 - SOMME - PVA 2017 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D080_2017-01-01.7z.008"
+        ]
+    },
+    "R\u00e9gion MARTINIQUE": {
+        "972 - MARTINIQUE - PVA 2017 - projection RGAF09UTM20 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D972_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_RGAF09UTM20_D972_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_RGAF09UTM20_D972_2017-01-01.7z"
+        ]
+    },
+    "R\u00e9gion NORMANDIE": {
+        "14 - CALVADOS - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D014_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D014_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D014_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D014_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D014_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D014_2016-01-01.7z.002"
+        ],
+        "27 - EURE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D027_2019-01-01.7z.007"
+        ],
+        "50 - MANCHE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D050_2019-01-01.7z.008"
+        ],
+        "61 - ORNE - PVA 2020 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D061_2020-01-01.7z.007"
+        ],
+        "76 - SEINE-MARITIME - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D076_2019-01-01.7z.007"
+        ]
+    },
+    "R\u00e9gion NOUVELLE-AQUITAINE": {
+        "17 - Charente - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.008",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D017_2018-01-01.7z.009"
+        ],
+        "79 - Deux-S\u00e8vres - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D079_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D079_2018-01-01.7z.002"
+        ]
+    },
+    "R\u00e9gion OCCITANIE": {
+        "09 - ARI\u00c8GE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D009_2019-01-01.7z.006"
+        ],
+        "11 - AUDE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D011_2018-01-01.7z.007"
+        ],
+        "12 - AVEYRON - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.008",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.009",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D012_2019-01-01.7z.010"
+        ],
+        "30 - GARD - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D030_2018-01-01.7z.007"
+        ],
+        "31 - HAUTE-GARONNE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D031_2019-01-01.7z.008"
+        ],
+        "32 - GERS - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D032_2019-01-01.7z.007"
+        ],
+        "34 - H\u00c9RAULT - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D034_2018-01-01.7z.007"
+        ],
+        "46 - LOT - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D046_2019-01-01.7z.006"
+        ],
+        "48 - LOZERE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D048_2018-01-01.7z.006"
+        ],
+        "65 - HAUTE-PYR\u00c9N\u00c9ES - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D065_2019-01-01.7z.006"
+        ],
+        "66 - PYR\u00c9N\u00c9ES-ORIENTALES - PVA 2015 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D066_2015-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D066_2015-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D066_2015-01-01.7z"
+        ],
+        "81 - TARN - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D081_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D081_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D081_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D081_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D081_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D081_2016-01-01.7z.002"
+        ],
+        "82 - TARN-ET-GARONNE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D082_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D082_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D082_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D082_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D082_2019-01-01.7z.005"
+        ]
+    },
+    "R\u00e9gion PAYS DE LA LOIRE": {
+        "44 - LOIRE-ATLANTIQUE - PVA 2013 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D044_2013-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D044_2013-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D044_2013-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D044_2013-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D044_2013-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D044_2013-01-01.7z.002"
+        ],
+        "49 - MAINE-ET-LOIRE - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D049_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D049_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D049_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D049_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D049_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D049_2016-01-01.7z.002"
+        ],
+        "53 - MAYENNE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D053_2019-01-01.7z.006"
+        ],
+        "72 - SARTHE - PVA 2019 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D072_2019-01-01.7z.007"
+        ],
+        "85 - VENDEE - PVA 2016 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D085_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D085_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D085_2016-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D085_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D085_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D085_2016-01-01.7z.002"
+        ]
+    },
+    "R\u00e9gion PROVENCE-ALPES-C\u00d4TE-D\u2019AZUR": {
+        "04 - ALPES-DE-HAUTE-PROVENCE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.007",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D004_2018-01-01.7z.008"
+        ],
+        "05 - HAUTES-ALPES - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.003",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.004",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.005",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.006",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_LAMB93_D005_2018-01-01.7z.007"
+        ],
+        "06 - ALPES-MARITIMES - PVA 2017 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D006_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D006_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D006_2017-01-01.7z"
+        ],
+        "13 - BOUCHES-DU-RHONE - PVA 2017 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D013_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D013_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D013_2017-01-01.7z"
+        ],
+        "83 - VAR - PVA 2017 :": [
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D083_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D083_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01.7z.001",
+            "https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D083_2017-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D083_2017-01-01.7z.002"
+        ],
+        "84 - VAUCLUSE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D084_2018-01-01.7z.001"
+        ]
+    },
+    "R\u00e9gion R\u00c9UNION": {
+        "974 - REUNION - PVA 2017 - projection RGR92UTM92 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_RGR92UTM40S_D974_2017-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_RGR92UTM40S_D974_2017-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_RGR92UTM40S_D974_2017-01-01.7z.003"
+        ]
+    },
+    "R\u00e9gion SAINT-MARTIN": {
+        "978 - MARTIN - PVA 2018 - projection RGAF09UTM20 :": [
+            "ftp://BD_ORTHO_IRC_ext:aixo5aeDeey2Lahw@ftp3.ign.fr/ORTHOHR_1-0_IRC-0M20_JP2-E080_RGAF09UTM20_D978_2018-01-01.7z.001"
+        ]
+    },
+    "R\u00e9gion GUYANE": {
+        "973 - GUYANE - PVA 2018 :": [
+            "ftp://BD_ORTHO_IRC_NL_ext:janei6Nie4iebei5@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_UTM22RGFG95_D973_2018-01-01.7z.001",
+            "ftp://BD_ORTHO_IRC_NL_ext:janei6Nie4iebei5@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_UTM22RGFG95_D973_2018-01-01.7z.002",
+            "ftp://BD_ORTHO_IRC_NL_ext:janei6Nie4iebei5@ftp3.ign.fr/BDORTHO_2-0_IRC-0M50_JP2-E080_UTM22RGFG95_D973_2018-01-01.7z.003"
+        ]
+    }
+}
