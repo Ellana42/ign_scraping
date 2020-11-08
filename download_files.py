@@ -1,13 +1,24 @@
 from requests import Session
 import requests
 from tqdm import tqdm
-
-# headers = GET /piwik/piwik.php?link=https%3A%2F%2Fwxs.ign.fr%2Fenlf5fc2u11becs9p951mrzi%2Ftelechargement%2Fprepackage%2FORTHOHR-JP2_PACK_D014_2016-01-01%24ORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D014_2016-01-01%2Ffile%2FORTHOHR_1-0_RVB-0M20_JP2-E080_LAMB93_D014_2016-01-01.7z.001&idsite=42&rec=1&r=364841&h=11&m=49&s=27&url=https%3A%2F%2Fgeoservices.ign.fr%2Fdocumentation%2Fdiffusion%2Ftelechargement-donnees-libres.html%23orthoirc--50cm-et-hr-sous-licence-ouverte&_id=939d6a31670610b5&_idts=1604674428&_idvc=4&_idn=0&_refts=0&_viewts=1604684646&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=1440x900&gt_ms=567 HTTP/1.1
-
+import shutil
+import urllib.request as request
+from contextlib import closing
 
 url = 'https://ORTHOIRC:ORTHOIRC@wxs.ign.fr/02v71g3hwl8yn8j5yf1nf08v/telechargement/inspire/BDORTHO-JP2-IRC_PACK_D003_2016-01-01%24BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D003_2016-01-01/file/BDORTHO_2-0_IRC-0M50_JP2-E080_LAMB93_D003_2016-01-01.7z.001'
 
 def download_file(url, filepath):
+    if url[:5] == 'https':
+        download_https(url, filepath)
+    elif url[:3] == 'ftp':
+        download_ftp(url, filepath)
+    else:
+        print('Unknown format')
+        print('Url : {}'.format(url))
+        print('Path : {}'.format(filepath))
+        raise
+
+def download_https(url, filepath):
     headers = {'Host': 'piwik.ign.fr',
         'Connection': 'keep-alive',
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36',
@@ -29,4 +40,12 @@ def download_file(url, filepath):
                 # and set chunk_size parameter to None.
                 #if chunk: 
                 f.write(chunk)
-    return local_filename
+    return filepath
+
+def download_ftp(url, filepath):
+    with closing(request.urlopen(url)) as r:
+        print('ongoing ftp')
+        with open(filepath, 'wb') as f:
+            print('writing ftp')
+            shutil.copyfileobj(r, f)
+
